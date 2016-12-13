@@ -1,10 +1,10 @@
 {
-  "name": "cellular-react-redux-boilerplate",
+  "name": "react-redux-boilerplate",
   "version": "0.0.1",
-  "description": "cellular-react-redux-boilerplate",
+  "description": "react-redux-boilerplate",
   "repository": {
     "type": "git",
-    "url": "gitlab@git.cellular.de:web/cellular_react_redux_boilerplate.git"
+    "url": "https://github.com/darasmus/react_redux_boilerplate.git"
   },
   "author": [
     "darasmus <darasmus@cellular.de>",
